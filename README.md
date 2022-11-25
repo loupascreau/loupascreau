@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ I'm passionate about the power of computer development.✨<br>
-🔭 I’m currently working on the last project of school 42 in order to validate my course. <br>
-🌱 I’m currently learning Node.js framework and TypeScript framework. <br>
+🌱 I'm passionate about the power of computer development.🌱<br>
+⚡ I’m currently doing my first internship at [CrushON](https://crushonapp.com/) as Jr. developer. ⚡<br>
 
 ## 💻 My skills
 
